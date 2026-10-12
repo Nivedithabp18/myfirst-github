@@ -10,5 +10,6 @@ int main(){
     printf("new fature added"); */
     /*New work niveditha
     printf("new fature added"); */
+    test
     return 0;
 }
